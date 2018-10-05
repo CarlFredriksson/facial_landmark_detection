@@ -1,0 +1,2 @@
+baseline> final_train_loss: 0.005236099221717532, final_val_loss: 0.007249398714053296
+cnn> final_train_loss: 0.0001462516884883065, final_val_loss: 0.0003021768918239172
